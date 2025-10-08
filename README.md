@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **www.zainab260@gmail.com**
 
+-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
