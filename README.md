@@ -15,6 +15,11 @@ Hi! I’m Zenab Khatoon, a passionate Computer Science Engineering student and a
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zainab-student&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
