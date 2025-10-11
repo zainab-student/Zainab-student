@@ -11,6 +11,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://www.facebook.com/zainab.khatoon.98499" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.facebook.com/zainab.khatoon.98499" height="30" width="40" /></a>
